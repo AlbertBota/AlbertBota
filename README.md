@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @AlbertBota
-- 👀 Learning new things is always exciting.
-- 🌱Machine Learning (Ai) and Data Analysis is what I enjoy studying and experimenting. working on all kinds of datasets and models, testing how far I can go is my daily routine.
-- 💞️ I enjoy Mobile App Development Android 
-- 📫 How to reach me: email abota71@gmail.com or phone 905-242-0933 whatsapp.
+Hi, I’m AlbertBota
+I am a DevSecOps Engineer and my roles include the following:
 
+Designing and implementing CI/CD pipelines with security built in
 
+Automate infrastructure provisioning using Terraform & Azure
+
+Integrating security tools for code analysis, container scanning, and compliance
+
+Monitoring, detecting, and responding to security incidents in cloud-native environments
+
+Advocate for DevSecOps culture — embedding security across the SDLC
